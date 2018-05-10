@@ -1,4 +1,4 @@
-# <AppleScript>入门
+# <AppleScript>AppleScript入门
 ```applescript
 display dialog the ["Hello AppleScript."] buttons {"1", "2"} default button 2 giving up after 2
 ```

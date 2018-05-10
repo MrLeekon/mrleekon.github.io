@@ -1,4 +1,4 @@
-# <Pandoc>使用
+# <Pandoc>Pandoc使用
 ## 转 Word
 ```
 pandoc -f markdown XXX.md -t docx -o YYY.docx

@@ -1,4 +1,4 @@
-# <Leksah>使用
+# <Leksah>Leksah使用
 
 ## Leksah的安装
 首先安装Brew
